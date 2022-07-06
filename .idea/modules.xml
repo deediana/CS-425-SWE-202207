@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS-425-SWE-202207.iml" filepath="$PROJECT_DIR$/CS-425-SWE-202207.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyStudentMgmtApp/MyStudentMgmtApp.iml" filepath="$PROJECT_DIR$/MyStudentMgmtApp/MyStudentMgmtApp.iml" />
+    </modules>
+  </component>
+</project>
